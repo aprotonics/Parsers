@@ -1,1 +1,3 @@
-# parsers
+# Parsers
+
+Parsers for web scraping
